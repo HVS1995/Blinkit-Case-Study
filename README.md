@@ -44,6 +44,6 @@ This case study enabled a multi-dimensional view of Blinkit's performance across
 
 ## 📂 Folder Structure
 - Data: https://drive.google.com/file/d/1rt6cGZkjB7fbaUDb6Xw_OIW82Hs5aQO3/view?usp=sharing
-- Sql Queries :- https://docs.google.com/document/d/1mUzSDXo825slPY16rq3rLHYGwmG2wHHa/edit?usp=sharing&ouid=112854424454018772513&rtpof=true&sd=true
+- Sql Queries :- https://docs.google.com/document/d/1mUzSDXo825slPY16rq3rLHYGwmG2wHHa/edit?usp=drive_link&ouid=112854424454018772513&rtpof=true&sd=true
 - Dashboard :- ![DASHBOARD](https://github.com/user-attachments/assets/83ff54b0-e507-4b55-8e7c-8ce7d397ad62)
 
